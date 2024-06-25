@@ -41,4 +41,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-Feel free to contribute to this project by opening issues and submitting pull requests. For any questions, please contact [your_email@example.com].
+Feel free to contribute to this project by opening issues and submitting pull requests. For any questions, please contact [itssatyam.345@gmail.com].
