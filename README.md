@@ -6,8 +6,8 @@ This project uses Streamlit and LangChain to generate blog posts based on user i
 
 1. **Clone the repository:**
     ```sh
-    git clone <https://github.com/Sattusss/Blog_Generation_System>
-    cd <Blog_Generation_System>
+    git clone [https://github.com/Sattusss/Blog_Generation_System]
+    cd [Blog_Generation_System]
     ```
 
 2. **Install required packages:**
